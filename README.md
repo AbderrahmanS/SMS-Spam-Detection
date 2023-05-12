@@ -2,4 +2,4 @@
 SMS Spam Detection using Simple LSTM
 
 # Dataset
-/kaggle/input/sms-spam-collection-dataset/spam.csv
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
